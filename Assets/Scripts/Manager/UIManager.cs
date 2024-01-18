@@ -3,10 +3,10 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using Const;
 
 public class UIManager :MonoBehaviour
 {
-    const string PREFAB_PATH = "";
     private static UIManager _instance;
     public static UIManager Instance { get { return _instance; } }
 
@@ -30,7 +30,7 @@ public class UIManager :MonoBehaviour
         }
         else 
         {
-            go = Resources.Load(PREFAB_PATH + name) as GameObject;
+            go = Resources.Load(Consts.UI_PREFAB_PATH + name) as GameObject;
             _UIDict.Add(name, go);
         }
 
