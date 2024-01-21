@@ -29,7 +29,7 @@ public class ExcelReaderWindow : EditorWindow
                 float progress = (float)i / totalFiles;
                 EditorUtility.DisplayProgressBar("Reading Excel Files", $"Processing {file}...", progress);
 
-                DataUtility_EX.ReadExcel(file);
+                //DataUtility_EX.ReadExcel(file);
 
                 // 프로세스 중단 확인
                 if (EditorUtility.DisplayCancelableProgressBar("Reading Excel Files", $"Processing {file}...", progress))
