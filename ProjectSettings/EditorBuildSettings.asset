@@ -8,4 +8,49 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/demoblank.unity
+    guid: 7dcc867c1b819c34187d7cf1bed88cd5
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/14.unity
+    guid: 118d930062f23b8498d29e7bb0416eff
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/9.unity
+    guid: 01566bca8f8ec5a4c81c94fff6ee951e
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/demo_missiles.unity
+    guid: 53a44cb1d2dc3214d97af5682ef40c8b
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/demo_beams.unity
+    guid: f06f0f67fdd8a234994258f42c4beddb
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/10.unity
+    guid: 20d1c37152ca7334a9fe8e637a975dd5
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/13.unity
+    guid: d6f35fdcd7a91c54aa36d1657e5ae6ac
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/11.unity
+    guid: d96c2260e3b7ecb4bac74d8b6805109d
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/3.unity
+    guid: 639003f7fb1b41a4c846c78ddbc36276
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/4.unity
+    guid: 806adebcce1629741b94047cdf4ca61a
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/7.unity
+    guid: 8f611dac4dd550a4aaa07f0c02fa271a
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/5.unity
+    guid: e75dd64d5ff63d444a037a65353b2f35
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/8.unity
+    guid: db87ab2f2773c3a4484799fac0b798b0
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/6.unity
+    guid: 9d5ce22cd55c8c94ebe3804829b185e4
+  - enabled: 1
+    path: Assets/Scripts/Pixel Arsenal/Demo/Scenes/12.unity
+    guid: 01303b7d8ae92344f92cb6132722ea09
   m_configObjects: {}
